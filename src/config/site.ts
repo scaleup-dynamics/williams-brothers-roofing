@@ -1,0 +1,23 @@
+export const site = {
+  name: 'Williams Brothers Roofing',
+  legalName: 'Williams Brothers Roofing LLC',
+  city: 'Plano',
+  state: 'TX',
+  serviceArea: 'Plano & Collin County, TX',
+  address: '2330 McDermott Rd, Plano, TX 75025',
+  phone: '(469) 402-2010',
+  phoneHref: '+14694022010',
+  email: 'service@williamsroofing.online',
+  mapUrl: 'https://maps.app.goo.gl/aVX9TzEVga9qA8XY9',
+  hours: 'Mon–Sat: 24 Hours • Emergency Storm Response',
+  trustBadge: '⭐ 4.9/5 Rating on Google (100+ Verified Texas Reviews)',
+  reviewCount: '100+',
+  rating: '4.9',
+  proof: {
+    showLicense: true,
+    showManufacturerBadges: true,
+    showReviewStats: true,
+    showProjectStats: true,
+    showTestimonials: true,
+  },
+};
